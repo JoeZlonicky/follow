@@ -17,8 +17,8 @@ export default function Home() {
         >
           <Image
             aria-hidden
-            src="/globe.svg"
-            alt="Globe icon"
+            src="/github.svg"
+            alt="GitHub icon"
             width={16}
             height={16}
           />
